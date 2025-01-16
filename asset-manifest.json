@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRUD--Operation-in-React.git/static/css/main.71c9f4a2.css",
+    "main.js": "/CRUD--Operation-in-React.git/static/js/main.ef81bbba.js",
+    "static/js/453.1291b0ef.chunk.js": "/CRUD--Operation-in-React.git/static/js/453.1291b0ef.chunk.js",
+    "index.html": "/CRUD--Operation-in-React.git/index.html",
+    "main.71c9f4a2.css.map": "/CRUD--Operation-in-React.git/static/css/main.71c9f4a2.css.map",
+    "main.ef81bbba.js.map": "/CRUD--Operation-in-React.git/static/js/main.ef81bbba.js.map",
+    "453.1291b0ef.chunk.js.map": "/CRUD--Operation-in-React.git/static/js/453.1291b0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c9f4a2.css",
+    "static/js/main.ef81bbba.js"
+  ]
+}
